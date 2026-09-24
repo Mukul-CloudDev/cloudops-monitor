@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Generated reports
+health_report.json
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
